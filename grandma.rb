@@ -1,7 +1,7 @@
 def speak_to_grandma
   speak_to_grandma = "I LOVE YOU GRANDMA!"
-  if speak_to_grandma
-    puts "I LOVE YOU TOO PUMPKIN!"
+  return "HUH?! SPEAK UP, SONNY!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
