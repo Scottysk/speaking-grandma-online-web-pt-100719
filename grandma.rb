@@ -1,7 +1,7 @@
-def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
-  if phrase
+def speak_to_grandma
+  speak_to_grandma = "I LOVE YOU GRANDMA!"
+  if speak_to_grandma
     puts "I LOVE YOU TOO PUMPKIN!"
-  end
 end
 
 # Whatever you say to grandma, she should respond with
